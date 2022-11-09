@@ -466,16 +466,16 @@ footer .text span a:hover{
   .home .text-three{
     font-size: 35px;
   }
-  .skillss .skillss-details{
+  .skills .skills-details{
     align-items: center;
     justify-content: center;
     flex-direction: column;
   }
-  .skillss-details .text{
+  .skills-details .text{
     width: 100%;
     margin-bottom: 50px;
   }
-  .skillss-details .boxes{
+  .skills-details .boxes{
     justify-content: center;
     align-items: center;
     width: 100%;
